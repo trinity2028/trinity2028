@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Trinity!
 - 👀 I’m interested in programming and math.
-- 🌱 I’m currently learning how to code.
+- 🌱 I’m currently a freshman in high school.
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I love creating art! 
+- ⚡ Fun fact: I love to volunteer on my free time!
 
 <!---
 trinity2028/trinity2028 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
