@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Trinity!
-- 👀 I’m interested in programming and math.
+- 👀 I’m interested in cybersecurity and biology.
 - 🌱 I’m currently a freshman in high school.
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love to volunteer on my free time!
